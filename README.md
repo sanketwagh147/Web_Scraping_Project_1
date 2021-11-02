@@ -1,0 +1,1 @@
+This project is a basic project which demonstrates web scraping of html web pages using python Beautiful Soup library.
