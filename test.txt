@@ -1,4 +1,0 @@
-ECHO is on.
-Making changes on this line on local and remote
-Hello World !Hello World !Hello World !Hello World !Hello World !
-HelloHelloHelloHelloHello
