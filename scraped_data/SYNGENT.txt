@@ -1,0 +1,3 @@
+Company Name: SYNGENTA 
+Required Skills: python,problemsolving,machinelearning,docker,django,git,oops,debugging,softwareengineering 
+More Info: https://www.timesjobs.com/job-detail/python-developer-syngenta-pune-2-to-4-yrs-jobid-ww302syKzRVzpSvf__PLUS__uAgZw==&source=srp
